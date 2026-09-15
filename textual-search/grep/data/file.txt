@@ -1,0 +1,5 @@
+The cat sat on the mat.
+This category includes cats and dogs.
+Do not concatenate these strings.
+Room 42B contains 7 boxes and 3 shelves.
+CamelCase123 mixes letters and numbers.

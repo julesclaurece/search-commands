@@ -1,0 +1,6 @@
+pending
+in progress
+done
+not done
+done yet
+completed and done

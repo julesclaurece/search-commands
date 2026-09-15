@@ -1,0 +1,14 @@
+.header {
+    width: 100px;
+    height: 60px;
+}
+
+.button {
+    padding: 8px 12px;
+    margin: 0;
+    border-radius: 4px;
+}
+
+.text {
+    font-size: 14pt;
+}

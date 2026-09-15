@@ -1,0 +1,9 @@
+203.0.113.10 - - [10/Jan/2026:09:15:32 +0000] "GET /api/profile?id=user_42 HTTP/1.1" 200 512
+203.0.113.11 - - [10/Jan/2026:09:15:45 +0000] "GET /api/profile?id=user_17 HTTP/1.1" 200 498
+203.0.113.12 - - [10/Jan/2026:09:16:01 +0000] "GET /api/orders HTTP/1.1" 404 210
+203.0.113.10 - - [10/Jan/2026:09:16:20 +0000] "POST /api/login HTTP/1.1" 401 89
+203.0.113.13 - - [10/Jan/2026:09:16:55 +0000] "GET /api/profile?id=user_42 HTTP/1.1" 200 512
+203.0.113.14 - - [10/Jan/2026:09:17:10 +0000] "GET /favicon.ico HTTP/1.1" 404 0
+203.0.113.15 - - [10/Jan/2026:09:17:44 +0000] "GET /api/session?user=alice HTTP/1.1" 200 233
+203.0.113.16 - - [10/Jan/2026:09:18:02 +0000] "GET /api/session?user=bob HTTP/1.1" 200 240
+203.0.113.17 - - [10/Jan/2026:09:18:30 +0000] "GET /api/session?user=charlie HTTP/1.1" 500 55

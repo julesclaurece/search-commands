@@ -1,0 +1,1 @@
+Rappel sécurité : le password d'un utilisateur ne doit jamais être stocké en clair.

@@ -1,0 +1,4 @@
+record id=101 status=active
+record id=202 status=inactive
+reference id=ABC123 status=pending
+record id=303 status=active

@@ -1,0 +1,14 @@
+Nom: Alice Martin
+Email: alice.martin@example.com
+Téléphone: 06 12 34 56 78
+
+Nom: Bob Dupont
+Email: bob_dupont99@example.fr
+Téléphone: 07 98 76 54 32
+
+Nom: Charlie (pas d'email renseigné)
+Téléphone: 06 00 11 22 33
+
+Nom: Diane Leroy
+Email: diane.leroy+work@example.co.uk
+Téléphone: 06 45 67 89 10
