@@ -1,0 +1,16 @@
+2026-01-10 09:00:01 INFO Application started
+2026-01-10 09:00:05 INFO Loading configuration
+2026-01-10 09:01:12 error failed to connect to cache
+2026-01-10 09:02:33 ERROR Database connection lost
+2026-01-10 09:02:34 ERROR Database connection lost
+2026-01-10 09:02:35 ERROR Database connection lost
+2026-01-10 09:03:47 INFO Retrying connection
+2026-01-10 09:04:10 INFO Reconnected to database
+Error: configuration file missing
+Exception in thread "main" java.lang.NullPointerException
+    at com.example.App.process(App.java:42)
+    at com.example.App.main(App.java:15)
+2026-01-10 09:06:00 INFO Backup started
+
+2026-01-10 09:07:00 INFO Backup completed, cleanup task done
+2026-01-10 09:08:00 INFO Shutdown sequence done

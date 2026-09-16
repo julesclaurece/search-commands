@@ -1,0 +1,11 @@
+2026-01-10 10:00:00 INFO Serveur démarré sur le port 8080
+2026-01-10 10:00:05 INFO En attente de connexions
+2026-01-10 10:01:15 WARN Tentative de connexion depuis 203.0.113.45
+2026-01-10 10:01:16 error connexion refusée depuis 203.0.113.45 (IP bannie)
+2026-01-10 10:01:17 INFO Connexion fermée
+2026-01-10 10:01:20 INFO Nouvelle tentative depuis 203.0.113.99
+2026-01-10 10:05:32 WARN Trop de tentatives échouées
+2026-01-10 10:05:33 error connexion refusée depuis 203.0.113.99 (trop de tentatives)
+2026-01-10 10:05:34 INFO Connexion fermée
+2026-01-10 10:10:00 INFO Sauvegarde de session effectuée
+2026-01-10 10:10:05 INFO Fin du cycle de sauvegarde

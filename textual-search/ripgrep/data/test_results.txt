@@ -1,0 +1,4 @@
+test_login ... ok
+test_logout ... ok
+test_signup ... FAILED
+test_password_reset ... ok
