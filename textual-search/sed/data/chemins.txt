@@ -1,0 +1,3 @@
+Log stocké dans /var/log/app/access.log
+Ancien chemin: /var/log/legacy/old.log
+Config: /var/log/app/config.conf

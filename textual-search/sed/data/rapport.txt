@@ -1,0 +1,6 @@
+Introduction générale, à ignorer.
+START
+Ligne de contenu utile 1
+Ligne de contenu utile 2
+END
+Conclusion, à ignorer aussi.
