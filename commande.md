@@ -6,12 +6,12 @@ Uniquement des outils modernes, réellement utilisés aujourd'hui et pertinents 
 
 - **grep** ✅ — bases : `-r -n -i -v -c -l -E -P` (PCRE), classes de caractères, ancres `^$`, `\b`
 - **ripgrep** (`rg`) ✅ — ignore `.gitignore` par défaut, multiline (`-U`), types de fichiers (`--type`), replace (`-r`)
-- **awk** — recherche + extraction de champs (`$1`, `$2`), conditions
-- **sed** — recherche + substitution, regex étendue
+- **awk** ✅ — recherche + extraction de champs (`$1`, `$2`), conditions
+- **sed** ✅ — recherche + substitution, regex étendue
 
 ## 2. Recherche de fichiers (métadonnées)
 
-- **find** — par nom, taille, date, permissions, profondeur, exécution de commandes (`-exec`)
+- **find** ✅ — par nom, taille, date, permissions, profondeur, exécution de commandes (`-exec`)
 
 ## 3. Forensic / binaire
 
